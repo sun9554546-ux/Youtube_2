@@ -1,8 +1,6 @@
 streamlit
-yt-dlp
-ffmpeg-python
-openai-whisper
 moviepy
-gtts
-deep-translator
+pytube
+googletrans==4.0.0rc1
+gTTS
 
