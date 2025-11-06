@@ -5,3 +5,4 @@ openai-whisper
 moviepy
 gtts
 deep-translator
+
