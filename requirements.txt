@@ -1,6 +1,8 @@
 streamlit
 yt-dlp
-moviepy
+moviepy==1.0.3
+imageio==2.31.1
+imageio-ffmpeg==0.4.9
 gTTS
 googletrans==4.0.0-rc1
 pydub
