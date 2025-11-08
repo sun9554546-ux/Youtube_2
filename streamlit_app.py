@@ -1,7 +1,3 @@
-
-import imageio_ffmpeg as ffmpeg
-# set FFmpeg path so moviepy & whisper can find it
-os.environ["IMAGEIO_FFMPEG_EXE"] = ffmpeg.get_ffmpeg_exe()import streamlit as st
 import os
 import yt_dlp
 import whisper
