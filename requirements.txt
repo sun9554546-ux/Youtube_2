@@ -1,11 +1,12 @@
 streamlit
 yt-dlp
-moviepy==1.0.3
-imageio==2.31.1
-imageio-ffmpeg==0.4.9
+moviepy
+imageio
+imageio-ffmpeg
 gTTS
 googletrans==4.0.0-rc1
 pydub
 openai-whisper
 torch
 deep-translator
+ffmpeg-python
