@@ -1,6 +1,8 @@
 streamlit
+yt-dlp
 moviepy
-pytube
-googletrans==4.0.0rc1
 gTTS
-
+googletrans==4.0.0-rc1
+pydub
+openai-whisper
+torch
